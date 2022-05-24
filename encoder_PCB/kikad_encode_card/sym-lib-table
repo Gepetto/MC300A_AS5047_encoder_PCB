@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "enclib")(type "KiCad")(uri "${KIPRJMOD}/enclib.kicad_sym")(options "")(descr ""))
-  (lib (name "udriver3")(type "KiCad")(uri "/home/amine/workspace_v11/open-motor-driver-initiative-LAAS/hardware/udriver3/udriver3.kicad_sym")(options "")(descr ""))
-)
