@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# DF13-5P-1.25DSA
+#
+DEF DF13-5P-1.25DSA J 0 40 Y Y 1 L N
+F0 "J" 650 300 50 H V L BNN
+F1 "DF13-5P-1.25DSA" 650 200 50 H V L BNN
+F2 "DF135P125DSA" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "DF13-5P-1.25DSA" 0 0 50 H I L BNN "MANUFACTURER_PART_NUMBER"
+F5 "Headers & Wire Housings 1.25MM V PCB HEADER 5P THRU-HOLE TIN" 0 0 50 H I L BNN "DESCRIPTION"
+F6 "4.3mm" 0 0 50 H I L BNN "HEIGHT"
+F7 "Hirose" 0 0 50 H I L BNN "MANUFACTURER_NAME"
+F8 "798-DF13-5P-1.25DSA" 0 0 50 H I L BNN "MOUSER_PART_NUMBER"
+F9 "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/DF13-5P-125DSA?qs=Ux3WWAnHpjDJWf8XCjmDFw%3D%3D" 0 0 50 H I L BNN "MOUSER_PRICE-STOCK"
+DRAW
+P 2 0 0 10 200 100 600 100 N
+P 2 0 0 10 600 -500 600 100 N
+P 2 0 0 10 600 -500 200 -500 N
+P 2 0 0 10 200 100 200 -500 N
+X 1 1 0 -400 200 R 40 40 0 0 B 
+X 2 2 0 -300 200 R 40 40 0 0 B 
+X 3 3 0 -200 200 R 40 40 0 0 B 
+X 4 4 0 -100 200 R 40 40 0 0 B 
+X 5 5 0 0 200 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
