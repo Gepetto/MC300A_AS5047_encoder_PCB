@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP AS5047U-HTSM
+D AMS AS5047U-HTSM TSSOP14 LF T&RDP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/c3ef85baf5c65a55d97fe066bf0af3b0.pdf
+$ENDCMP
+#
+#End Doc Library
