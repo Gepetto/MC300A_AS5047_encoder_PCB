@@ -8,7 +8,7 @@ https://ams.com/en/as5047p
 https://www.myactuator.com/_files/ugd/cab28a_d12405ad9d114c308658ca2bf5e42c5b.pdf
 
 # Authors 
-* Amine El Hamdaou
+* Amine El Hamdaoui
 * Jerome Manhes
 * Thomas Flayols
 
