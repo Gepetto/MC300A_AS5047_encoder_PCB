@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "encoderlib")(type "KiCad")(uri "${KIPRJMOD}/encoderlib.pretty")(options "")(descr ""))
-  (lib (name "udriver3")(type "KiCad")(uri "/home/amine/workspace_v11/open-motor-driver-initiative-LAAS/hardware/udriver3/udriver3.pretty")(options "")(descr ""))
-)
